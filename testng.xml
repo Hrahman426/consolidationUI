@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/IntelliJ/NBA_Auto_Test">
+        <classes>
+            <class name="com.nba.frontEnd.test.nabStatsPageTest">
+                <methods>
+                    <include name="verifyStatsUIElement"/>
+                </methods>
+            </class>
+            <class name="com.nba.frontEnd.test.nbaFantasyPageTest">
+                <methods>
+                    <include name="validateNbaFantasyPageTests"/>
+                </methods>
+            </class>
+            <class name="com.nba.frontEnd.test.nbaHomePageTest">
+                <methods>
+                    <include name="homePageLoginTests"/>
+                    <include name="logoDisplayedTest"/>
+                </methods>
+            </class>
+            <class name="com.nba.frontEnd.test.nbaNewsPageTest">
+                <methods>
+                    <include name="nbaNewsPageTests"/>
+                </methods>
+            </class>
+            <class name="com.nba.frontEnd.test.nbaPlayersPageTest">
+                <methods>
+                    <include name="validatePlayersRotowire"/>
+                </methods>
+            </class>
+            <class name="com.nba.frontEnd.test.nbaSearchPageTest">
+                <methods>
+                    <include name="validateSearchImprovements"/>
+                </methods>
+            </class>
+            <class name="com.nba.frontEnd.test.nbaStandingsPageTest">
+                <methods>
+                    <include name="nbaStandingsPageTests"/>
+                </methods>
+            </class>
+            <class name="com.nba.frontEnd.test.nbaTeamsPageTest">
+                <methods>
+                    <include name="validateFavoriteSignInPrompt"/>
+                </methods>
+            </class>
+            <class name="com.nba.frontEnd.test.schedulePageTest">
+                <methods>
+                    <include name="validateSchedulePage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
