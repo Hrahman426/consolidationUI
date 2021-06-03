@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
-public class nabStatsPageTest extends BaseTest {
+public class nbaStatsPageTest extends BaseTest {
 
     @Test
     public void verifyStatsUIElement()

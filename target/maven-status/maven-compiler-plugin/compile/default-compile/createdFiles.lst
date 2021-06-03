@@ -1,6 +1,5 @@
 com\nba\frontEnd\pageObject\nbaTeamBioPage.class
 com\nba\frontEnd\pageObject\nbaPlayersBioPage.class
-com\nba\frontEnd\test\nabStatsPageTest.class
 com\nba\frontEnd\test\nbaHomePageTest.class
 com\nba\frontEnd\pageObject\nbaSearchPage.class
 com\nba\frontEnd\test\nbaPlayersPageTest.class
@@ -9,6 +8,7 @@ com\nba\frontEnd\pageObject\nbaTeamsPage.class
 com\nba\frontEnd\test\nbaTeamsPageTest.class
 com\nba\frontEnd\pageObject\signInToNBAAccount.class
 com\nba\frontEnd\pageObject\nbaNewsPage.class
+com\nba\frontEnd\test\nbaStatsPageTest.class
 com\nba\frontEnd\pageObject\nbaFantasyPage.class
 com\nba\frontEnd\base\BaseTest.class
 com\nba\frontEnd\pageObject\nbaStandingsPage.class

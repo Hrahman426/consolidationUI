@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/IntelliJ/NBA_Auto_Test">
         <classes>
-            <class name="com.nba.frontEnd.test.nabStatsPageTest">
+            <class name="com.nba.frontEnd.test.nbaStatsPageTest">
                 <methods>
                     <include name="verifyStatsUIElement"/>
                 </methods>

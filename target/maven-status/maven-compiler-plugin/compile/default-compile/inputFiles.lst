@@ -3,7 +3,6 @@ C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\pag
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\pageObject\nbaStatsPage.java
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\test\nbaNewsPageTest.java
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\sandBox\LoginSample.java
-C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\test\nabStatsPageTest.java
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\pageObject\nbaNewsPage.java
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\pageObject\nbaSearchPage.java
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\pageObject\signInMenu.java
@@ -21,5 +20,6 @@ C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\pag
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\test\nbaPlayersPageTest.java
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\pageObject\nbaHomePage.java
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\test\nbaHomePageTest.java
+C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\test\nbaStatsPageTest.java
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\test\nbaFantasyPageTest.java
 C:\Users\hrahman\IdeaProjects\consolidationUI\src\main\java\com\nba\frontEnd\base\BasePage.java
