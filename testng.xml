@@ -2,10 +2,16 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/IntelliJ/NBA_Auto_Test">
+
         <classes>
             <class name="com.nba.frontEnd.test.nbaStatsPageTest">
                 <methods>
                     <include name="verifyStatsUIElement"/>
+                </methods>
+            </class>
+            <class name="com.nba.frontEnd.test.nbaTVPageTest">
+                <methods>
+                    <include name="validateTVUIElements"/>
                 </methods>
             </class>
             <class name="com.nba.frontEnd.test.nbaFantasyPageTest">
