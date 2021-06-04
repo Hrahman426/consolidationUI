@@ -1,7 +1,6 @@
 package com.nba.frontEnd.pageObject;
 
 import com.nba.frontEnd.base.BasePage;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

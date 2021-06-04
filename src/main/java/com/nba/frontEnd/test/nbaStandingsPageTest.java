@@ -13,10 +13,8 @@ public class nbaStandingsPageTest extends BaseTest {
     {
         nbaStandingsPage standingsPage = new nbaStandingsPage(getDriver());
        // getDriver().manage().window().maximize();
-        Assert.assertTrue(getDriver().getCurrentUrl().contains("standings"));
-       //Assert.assertTrue(standingsPage.hideBracketClick());
-   //     standingsPage.hideBracketClick();NBA_Auto_Test
-     //   Assert.assertFalse(standingsPage.backgroundLogo());
+       // Assert.assertTrue(getDriver().getCurrentUrl().contains("standings"));
+
     }
 }
 
