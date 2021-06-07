@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="13" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="208771" started-at="2021-06-07T12:11:31 EDT" finished-at="2021-06-07T12:14:59 EDT">
+    <groups>
+    </groups>
+    <test name="C:/IntelliJ/NBA_Auto_Test" duration-ms="208771" started-at="2021-06-07T12:11:31 EDT" finished-at="2021-06-07T12:14:59 EDT">
+      <class name="com.nba.frontEnd.test.nbaFantasyPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaFantasyPageTest@6c49835d]" name="beforeSuite" is-config="true" duration-ms="11430" started-at="2021-06-07T12:12:33 EDT" finished-at="2021-06-07T12:12:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="validateNbaFantasyPageTests()[pri:0, instance:com.nba.frontEnd.test.nbaFantasyPageTest@6c49835d]" name="validateNbaFantasyPageTests" duration-ms="5398" started-at="2021-06-07T12:12:44 EDT" finished-at="2021-06-07T12:12:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNbaFantasyPageTests -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaFantasyPageTest@6c49835d]" name="afterSuite" is-config="true" duration-ms="1324" started-at="2021-06-07T12:12:50 EDT" finished-at="2021-06-07T12:12:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaFantasyPageTest -->
+      <class name="com.nba.frontEnd.test.nbaTVPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaTVPageTest@5a8806ef]" name="beforeSuite" is-config="true" duration-ms="8580" started-at="2021-06-07T12:12:15 EDT" finished-at="2021-06-07T12:12:23 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="validateTVUIElements()[pri:0, instance:com.nba.frontEnd.test.nbaTVPageTest@5a8806ef]" name="validateTVUIElements" duration-ms="4714" started-at="2021-06-07T12:12:23 EDT" finished-at="2021-06-07T12:12:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTVUIElements -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaTVPageTest@5a8806ef]" name="afterSuite" is-config="true" duration-ms="4888" started-at="2021-06-07T12:12:28 EDT" finished-at="2021-06-07T12:12:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaTVPageTest -->
+      <class name="com.nba.frontEnd.test.nbaPlayersPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaPlayersPageTest@7d0587f1]" name="beforeSuite" is-config="true" duration-ms="11902" started-at="2021-06-07T12:13:29 EDT" finished-at="2021-06-07T12:13:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="validatePlayersRotowire()[pri:0, instance:com.nba.frontEnd.test.nbaPlayersPageTest@7d0587f1]" name="validatePlayersRotowire" duration-ms="7801" started-at="2021-06-07T12:13:41 EDT" finished-at="2021-06-07T12:13:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePlayersRotowire -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaPlayersPageTest@7d0587f1]" name="afterSuite" is-config="true" duration-ms="1239" started-at="2021-06-07T12:13:49 EDT" finished-at="2021-06-07T12:13:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaPlayersPageTest -->
+      <class name="com.nba.frontEnd.test.nbaWatchVidTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaWatchVidTest@7c29daf3]" name="beforeSuite" is-config="true" duration-ms="5371" started-at="2021-06-07T12:11:48 EDT" finished-at="2021-06-07T12:11:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="validateVideoPlayback()[pri:0, instance:com.nba.frontEnd.test.nbaWatchVidTest@7c29daf3]" name="validateVideoPlayback" duration-ms="4632" started-at="2021-06-07T12:11:54 EDT" finished-at="2021-06-07T12:11:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateVideoPlayback -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaWatchVidTest@7c29daf3]" name="afterSuite" is-config="true" duration-ms="1018" started-at="2021-06-07T12:11:58 EDT" finished-at="2021-06-07T12:11:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaWatchVidTest -->
+      <class name="com.nba.frontEnd.test.nbaStatsPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaStatsPageTest@9660f4e]" name="beforeSuite" is-config="true" duration-ms="9553" started-at="2021-06-07T12:11:59 EDT" finished-at="2021-06-07T12:12:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="verifyStatsUIElement()[pri:0, instance:com.nba.frontEnd.test.nbaStatsPageTest@9660f4e]" name="verifyStatsUIElement" duration-ms="4755" started-at="2021-06-07T12:12:09 EDT" finished-at="2021-06-07T12:12:14 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStatsUIElement -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaStatsPageTest@9660f4e]" name="afterSuite" is-config="true" duration-ms="1017" started-at="2021-06-07T12:12:14 EDT" finished-at="2021-06-07T12:12:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaStatsPageTest -->
+      <class name="com.nba.frontEnd.test.schedulePageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.schedulePageTest@4f063c0a]" name="beforeSuite" is-config="true" duration-ms="13758" started-at="2021-06-07T12:14:40 EDT" finished-at="2021-06-07T12:14:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="validateSchedulePage()[pri:0, instance:com.nba.frontEnd.test.schedulePageTest@4f063c0a]" name="validateSchedulePage" duration-ms="4795" started-at="2021-06-07T12:14:53 EDT" finished-at="2021-06-07T12:14:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSchedulePage -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.schedulePageTest@4f063c0a]" name="afterSuite" is-config="true" duration-ms="1251" started-at="2021-06-07T12:14:58 EDT" finished-at="2021-06-07T12:14:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.schedulePageTest -->
+      <class name="com.nba.frontEnd.test.nbaPrivacyPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaPrivacyPageTest@4bbfb90a]" name="beforeSuite" is-config="true" duration-ms="6103" started-at="2021-06-07T12:11:31 EDT" finished-at="2021-06-07T12:11:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="validatePrivacyUIElements()[pri:0, instance:com.nba.frontEnd.test.nbaPrivacyPageTest@4bbfb90a]" name="validatePrivacyUIElements" duration-ms="6604" started-at="2021-06-07T12:11:37 EDT" finished-at="2021-06-07T12:11:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePrivacyUIElements -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaPrivacyPageTest@4bbfb90a]" name="afterSuite" is-config="true" duration-ms="4863" started-at="2021-06-07T12:11:43 EDT" finished-at="2021-06-07T12:11:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaPrivacyPageTest -->
+      <class name="com.nba.frontEnd.test.nbaTeamsPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaTeamsPageTest@2a17b7b6]" name="beforeSuite" is-config="true" duration-ms="13495" started-at="2021-06-07T12:14:17 EDT" finished-at="2021-06-07T12:14:31 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="validateFavoriteSignInPrompt()[pri:0, instance:com.nba.frontEnd.test.nbaTeamsPageTest@2a17b7b6]" name="validateFavoriteSignInPrompt" duration-ms="7987" started-at="2021-06-07T12:14:31 EDT" finished-at="2021-06-07T12:14:38 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFavoriteSignInPrompt -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaTeamsPageTest@2a17b7b6]" name="afterSuite" is-config="true" duration-ms="1111" started-at="2021-06-07T12:14:38 EDT" finished-at="2021-06-07T12:14:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaTeamsPageTest -->
+      <class name="com.nba.frontEnd.test.nbaNewsPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaNewsPageTest@67205a84]" name="beforeSuite" is-config="true" duration-ms="14672" started-at="2021-06-07T12:13:06 EDT" finished-at="2021-06-07T12:13:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="nbaNewsPageTests()[pri:0, instance:com.nba.frontEnd.test.nbaNewsPageTest@67205a84]" name="nbaNewsPageTests" duration-ms="3621" started-at="2021-06-07T12:13:21 EDT" finished-at="2021-06-07T12:13:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nbaNewsPageTests -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaNewsPageTest@67205a84]" name="afterSuite" is-config="true" duration-ms="4854" started-at="2021-06-07T12:13:24 EDT" finished-at="2021-06-07T12:13:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaNewsPageTest -->
+      <class name="com.nba.frontEnd.test.nbaHomePageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaHomePageTest@5e853265]" name="beforeSuite" is-config="true" duration-ms="11578" started-at="2021-06-07T12:12:51 EDT" finished-at="2021-06-07T12:13:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="homePageLoginTests()[pri:0, instance:com.nba.frontEnd.test.nbaHomePageTest@5e853265]" name="homePageLoginTests" duration-ms="2175" started-at="2021-06-07T12:13:02 EDT" finished-at="2021-06-07T12:13:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageLoginTests -->
+        <test-method status="PASS" signature="logoDisplayedTest()[pri:0, instance:com.nba.frontEnd.test.nbaHomePageTest@5e853265]" name="logoDisplayedTest" duration-ms="72" started-at="2021-06-07T12:13:05 EDT" finished-at="2021-06-07T12:13:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoDisplayedTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaHomePageTest@5e853265]" name="afterSuite" is-config="true" duration-ms="1254" started-at="2021-06-07T12:13:05 EDT" finished-at="2021-06-07T12:13:06 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaHomePageTest -->
+      <class name="com.nba.frontEnd.test.nbaSearchPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.nba.frontEnd.test.nbaSearchPageTest@5d76b067]" name="beforeSuite" is-config="true" duration-ms="13324" started-at="2021-06-07T12:13:50 EDT" finished-at="2021-06-07T12:14:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="validateSearchImprovements()[pri:0, instance:com.nba.frontEnd.test.nbaSearchPageTest@5d76b067]" name="validateSearchImprovements" duration-ms="12371" started-at="2021-06-07T12:14:03 EDT" finished-at="2021-06-07T12:14:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchImprovements -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nba.frontEnd.test.nbaSearchPageTest@5d76b067]" name="afterSuite" is-config="true" duration-ms="1219" started-at="2021-06-07T12:14:16 EDT" finished-at="2021-06-07T12:14:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nba.frontEnd.test.nbaSearchPageTest -->
+    </test> <!-- C:/IntelliJ/NBA_Auto_Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
