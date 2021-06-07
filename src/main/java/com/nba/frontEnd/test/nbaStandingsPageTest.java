@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class nbaStandingsPageTest extends BaseTest {
 
-    @Test
+    @Test(enabled=false)
     public void nbaStandingsPageTests()
     {
         nbaStandingsPage standingsPage = new nbaStandingsPage(getDriver());

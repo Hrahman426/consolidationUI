@@ -4,6 +4,11 @@
     <test verbose="2" preserve-order="true" name="C:/IntelliJ/NBA_Auto_Test">
 
         <classes>
+            <class name="com.nba.frontEnd.test.nbaPrivacyPageTest">
+                <methods>
+                    <include name="validatePrivacyUIElements"/>
+                </methods>
+            </class>
             <class name="com.nba.frontEnd.test.nbaWatchVidTest">
                 <methods>
                     <include name="validateVideoPlayback"/>
